@@ -15,18 +15,21 @@
     "video.js"
   ],
   "author": "张成林",
+  "authorEmail": "469946668@qq.com",
   "license": "MIT",
+  "licenseDescription": "under the MIT License (license terms are at http://opensource.org/licenses/MIT).",
   "bugs": {
     "url": "https://github.com/zhangchenglin/bootstrap-modal-js-video/issues"
   },
-  "github": "https://github.com/zhangchenglin/bootstrap-modal-js-video#readme",
+  "github": "https://github.com/zhangchenglin/bootstrap-modal-js-video",
   "homepage": "https://github.com/zhangchenglin/bootstrap-modal-js-video#readme",
   "dependencies": {
-    "bootstrap-modal-js": "^0.0.1-alpha.beta.5",
+    "bootstrap-modal-js": "^0.0.1-alpha.beta.6",
     "video.js": "^7.4.1"
   },
   "devDependencies": {
     "gulp": "^4.0.0",
+    "gulp-header": "^2.0.7",
     "gulp-rename": "^1.4.0",
     "gulp-terser": "^1.1.7"
   }
